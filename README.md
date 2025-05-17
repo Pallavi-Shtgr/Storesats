@@ -1,7 +1,4 @@
-# Save the README content to a .txt file without the contact section
 
-readme_content = """
-API Server - Crypto Stats Collector
 ====================================
 
 This API server fetches real-time cryptocurrency data from the CoinGecko API 
